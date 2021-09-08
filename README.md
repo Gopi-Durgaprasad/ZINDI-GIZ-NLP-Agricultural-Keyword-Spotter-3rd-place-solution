@@ -2,6 +2,10 @@
 
 Competition page: https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter
 
+Leaderboard:
+
+![leaderboard](leaderboard.png)
+
 ## Winning submission info:
     ID: xxxxxxx
     Filename: eff5_20f_eff6_20f_eff7_20f_dnet201_20f.csv
