@@ -1,5 +1,7 @@
 # GIZ NLP Agricultural Keyword Spotter! #3 on the private leaderbord
 
+Competition page: https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter
+
 ## Winning submission info:
     ID: xxxxxxx
     Filename: eff5_20f_eff6_20f_eff7_20f_dnet201_20f.csv
